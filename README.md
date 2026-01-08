@@ -1,16 +1,42 @@
-## Hi there 👋
+# Gustavo Moretti — Backend Developer (.NET / C#) | CI/CD | Cloud | DevOps
 
-<!--
-**gutomoretti/gutomoretti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor focado em backend com experiência em **.NET / C#**, APIs e bancos relacionais.  
+Base: **Americana/SP (BR)**.
 
-Here are some ideas to get you started:
+- Stack principal: **C#, ASP.NET Core, WebAPI, MVC**
+- Bancos: **SQL Server, MySQL, PostgreSQL, MongoDB**
+- Extras: **WordPress / PHP, Supabase** quando o projeto pede
+- Práticas: **Clean Architecture, DDD, SOLID, testes, CI/CD**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- Site/Empresa: **FGSOFT** — https://fgsoft.com.br
+- LinkedIn: https://br.linkedin.com/in/gutomoretti
+
+## Destaques (projetos)
+> Alguns projetos que você pode olhar primeiro:
+
+- **bibliotecaonline-back** — API em C#
+- **bibliotecaonline-front** — Front-end em TypeScript
+- **marvel-back** — API em C#
+- **marvel-front** — Front-end em Vue
+- **last-backend / last-front** — projetos de estudo/experimentos
+
+## Tech Stack
+**Backend**
+- C#, .NET, ASP.NET Core, WebAPI, MVC
+
+**Database**
+- SQL Server, MySQL, PostgreSQL
+
+**DevOps**
+- CI/CD (GitHub Actions / Azure DevOps)
+- Docker
+
+## Como posso ajudar
+- Criação e evolução de APIs (.NET)
+- Integrações, performance e observabilidade
+- Padronização de arquitetura e pipelines CI/CD
+- Desenvolvimento de Saas, Sistemas sob Demanda
+
+## Contato
+- LinkedIn: https://br.linkedin.com/in/gutomoretti
