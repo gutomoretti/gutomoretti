@@ -9,7 +9,6 @@ Base: **Americana/SP (BR)**.
 - Práticas: **Clean Architecture, DDD, SOLID, testes, CI/CD**
 
 ## Links
-- Site/Empresa: **FGSOFT** — https://fgsoft.com.br
 - LinkedIn: https://br.linkedin.com/in/gutomoretti
 
 ## Destaques (projetos)
